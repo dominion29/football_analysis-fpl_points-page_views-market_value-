@@ -1,0 +1,2 @@
+On a football dataset, i carried out 3 different analysis. the first analysis where on the total amount of fpl points scored by Arsenal, Chelsea and Liverpool players.
+The second analysis was on the market value by positions while the last analysis was on the total number of fpl page views players from each club got.
